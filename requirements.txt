@@ -1,0 +1,4 @@
+gradio==6.0.1
+openai>=1.30.0
+mcp
+anyio
